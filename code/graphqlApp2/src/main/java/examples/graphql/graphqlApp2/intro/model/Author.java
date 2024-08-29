@@ -1,4 +1,4 @@
-package examples.graphql.graphqlApp2.intro;
+package examples.graphql.graphqlApp2.intro.model;
 
 
 import lombok.Data;
